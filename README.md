@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Tisha Mondal
 
-<!--
-**tishamondal-stargazer/tishamondal-stargazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineering Student | 📊 Data Science Enthusiast  
 
-Here are some ideas to get you started:
+📍 Nagpur, India  
+📧 tishamondal128@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/tisha-mondal-590535357)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Profile
+
+Passionate Computer Science student with a strong interest in Data Science, Artificial Intelligence, and Analytics. I enjoy building practical projects, exploring real-world datasets, and continuously improving my technical skills.
+
+---
+
+## 🛠️ Skills
+
+**Programming:** Python, Java, C, SQL  
+**Web:** HTML, Flask  
+**Data Analytics:** Data Visualization, Data Mining, Tableau  
+**Libraries:** NumPy, Pandas, Matplotlib  
+**Concepts:** Machine Learning, Image Processing  
+
+---
+
+## 🚀 What I'm Doing
+
+- Learning Machine Learning & AI concepts  
+- Working on data-driven projects  
+- Exploring real-world datasets  
+- Improving coding and problem-solving skills  
+
+---
+
+## 🤝 Connect
+
+Feel free to explore my work and connect with me!
